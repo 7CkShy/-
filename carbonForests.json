@@ -1,0 +1,14 @@
+[
+  {
+    "name": "碳汇林1",
+    "longitude": 109.741193,
+    "latitude": 38.299012,
+    "carbonEmission": "100吨"
+  },
+  {
+    "name": "碳汇林2",
+    "longitude": 109.751193,
+    "latitude": 38.309012,
+    "carbonEmission": "150吨"
+  }
+]
